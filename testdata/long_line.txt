@@ -1,0 +1,3 @@
+ThisIsOneVeryLongWordWithoutSpacesThatShouldNotBreakThingsAndContinuesFurtherAndFurtherUntilItGetsSplitByWrapper
+short line
+A medium-length line that will wrap across the given width nicely.
